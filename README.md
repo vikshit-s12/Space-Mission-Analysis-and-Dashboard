@@ -22,3 +22,4 @@ The objective is to transform raw datasets into meaningful insights and present 
 
 📸 Dashboard Preview
 📊 View Full Dashboard (PDF)
+👉https://github.com/vikshit-s12/Space-Mission-Analysis-and-Dashboard/blob/main/mission.pdf
