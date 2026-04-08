@@ -1,12 +1,12 @@
 # Space-Mission-Analysis-and-Dashboard
 Turning space mission data into actionable insights through analytics & visualization
 
-📌Description:
+Description:
 
 This project focuses on analyzing historical space mission data to uncover trends in launch frequency, mission success rates, and organizational performance.
 The objective is to transform raw datasets into meaningful insights and present them through an interactive dashboard for better decision-making and exploration.
 
-🛠️ Tech Stack:
+Tech Stack:
 
 💻 Python – Data Cleaning & Analysis (Pandas, NumPy)
 
@@ -14,14 +14,15 @@ The objective is to transform raw datasets into meaningful insights and present 
 
 📁 Excel / CSV – Data Storage & Processing
 
-📊 Data Source:
+Data Source:
 
 🌐 Public dataset from Kaggle / Open Data platforms
 
 📌 Includes: Mission Name, Launch Date, Organization, Location, Status
 
 
-✨ Highlights:
+Highlights:
+
 📈 Identified growth trends in global space missions
 
 🌍 Compared performance across countries & organizations
