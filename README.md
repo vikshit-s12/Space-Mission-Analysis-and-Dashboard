@@ -32,7 +32,7 @@ Highlights:
 📊 Built an interactive dashboard for real-time insights
 
 
-Dashboard Preview
+Dashboard Preview:
 
 📊 View Full Dashboard (PDF)
 
