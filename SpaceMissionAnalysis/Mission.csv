@@ -1,0 +1,61 @@
+Mission_ID,Mission_Name,Agency,Country,Launch_Year,Launch_Site,Rocket,Payload_kg,Mission_Type,Mission_Status,Mission_Cost_MUSD,Orbit
+SM001,Chandrayaan-1,ISRO,India,2008,Sriharikota,PSLV,1380,Lunar,Success,83,Lunar Orbit
+SM002,Chandrayaan-2,ISRO,India,2019,Sriharikota,GSLV Mk III,3850,Lunar,Partial Success,140,Trans Lunar
+SM003,Mangalyaan,ISRO,India,2013,Sriharikota,PSLV,1350,Mars Orbiter,Success,74,Heliocentric
+SM004,Aditya-L1,ISRO,India,2023,Sriharikota,PSLV,1480,Solar,Success,46,L1 Orbit
+SM005,GSAT-11,ISRO,India,2018,Kourou,Ariane 5,5854,Communication,Success,400,GEO
+SM006,INSAT-3D,ISRO,India,2013,Sriharikota,PSLV,2060,Weather,Success,250,GEO
+SM007,NULL,ISRO,India,2011,Sriharikota,PSLV,NULL,Earth Obs,Success,120,LEO
+SM008,Cartosat-2,ISRO,India,2007,Sriharikota,PSLV,680,Earth Obs,Success,NULL,LEO
+SM009,Apollo 11,NASA,USA,1969,Kennedy,Saturn V,43000,Lunar,Success,3550,Lunar Orbit
+SM010,Apollo 13,NASA,USA,1970,Kennedy,Saturn V,43000,Lunar,Failure,3500,Lunar Orbit
+SM011,James Webb,NASA,USA,2021,Kourou,Ariane 5,6200,Space Telescope,Success,10000,L2 Orbit
+SM012,Artemis I,NASA,USA,2022,Kennedy,SLS,26000,Lunar Test,Success,4000,Lunar Orbit
+SM013,Hubble,NASA,USA,1990,Kennedy,STS,11110,Telescope,Success,2500,LEO
+SM014,NULL,NASA,USA,1999,Vandenberg,Delta II,950,Earth Obs,Failure,180,LEO
+SM015,Starlink-1,SpaceX,USA,2019,Cape Canaveral,Falcon 9,15600,Satellite,Success,50,LEO
+SM016,Starlink-2,SpaceX,USA,2020,Cape Canaveral,Falcon 9,15600,Satellite,Success,52,LEO
+SM017,CRS-7,SpaceX,USA,2015,Cape Canaveral,Falcon 9,1950,Resupply,Failure,60,LEO
+SM018,Dragon Demo-2,SpaceX,USA,2020,Kennedy,Falcon 9,12000,Crewed,Success,90,LEO
+SM019,Falcon Heavy Test,SpaceX,USA,2018,Kennedy,Falcon Heavy,NULL,Test,Success,NULL,Heliocentric
+SM020,NULL,SpaceX,USA,2021,Cape Canaveral,Falcon 9,16000,Satellite,Success,55,LEO
+SM021,Tiangong-1,CNSA,China,2011,Jiuquan,Long March 2F,8500,Space Station,Success,1000,LEO
+SM022,Chang'e-3,CNSA,China,2013,Xichang,Long March 3B,3780,Lunar,Success,1200,Lunar Orbit
+SM023,Chang'e-5,CNSA,China,2020,Wenchang,Long March 5,8200,Lunar,Success,1500,Lunar Orbit
+SM024,NULL,CNSA,China,2017,Jiuquan,Long March 4C,1200,Earth Obs,Failure,NULL,LEO
+SM025,Tianwen-1,CNSA,China,2020,Wenchang,Long March 5,5000,Mars,Success,2000,Heliocentric
+SM026,Mars 96,Roscosmos,Russia,1996,Baikonur,Proton-K,6180,Mars,Failure,300,NULL
+SM027,Luna 25,Roscosmos,Russia,2023,Baikonur,Soyuz 2,Lunar,Lunar,Failure,200,Lunar Orbit
+SM028,GLONASS-K,Roscosmos,Russia,2018,Plesetsk,Soyuz,935,Navigation,Success,180,LEO
+SM029,NULL,Roscosmos,Russia,2014,Baikonur,Proton-M,6000,Communication,Failure,NULL,GEO
+SM030,Vostok 1,Roscosmos,Russia,1961,Baikonur,Vostok-K,4725,Crewed,Success,100,LEO
+SM031,Ariane 5 VA241,ESA,Europe,2018,Kourou,Ariane 5,10000,Communication,Success,200,GEO
+SM032,Sentinel-1A,ESA,Europe,2014,Kourou,Soyuz,2300,Earth Obs,Success,280,LEO
+SM033,Gaia,ESA,Europe,2013,Kourou,Soyuz,2030,Astrometry,Success,740,L2 Orbit
+SM034,NULL,ESA,Europe,2002,Baikonur,Soyuz,NULL,Science,Failure,NULL,LEO
+SM035,ExoMars,ESA,Europe,2016,Baikonur,Proton-M,4300,Mars,Partial Success,1400,Heliocentric
+SM036,BepiColombo,ESA,Europe,2018,Kourou,Ariane 5,4100,Mercury,Success,2000,Heliocentric
+SM037,Hayabusa,JAXA,Japan,2003,Kagoshima,M-V,510,Asteroid,Success,150,Heliocentric
+SM038,Hayabusa2,JAXA,Japan,2014,Tanegashima,H-IIA,609,Asteroid,Success,300,Heliocentric
+SM039,NULL,JAXA,Japan,2011,Tanegashima,H-IIA,NULL,Earth Obs,Success,NULL,LEO
+SM040,Akatsuki,JAXA,Japan,2010,Tanegashima,H-IIA,500,Venus,Partial Success,300,Heliocentric
+SM041,Arabsat-6A,SpaceX,Saudi Arabia,2019,Kennedy,Falcon Heavy,6465,Communication,Success,90,GEO
+SM042,NULL,Blue Origin,USA,2021,Texas,New Shepard,NULL,Suborbital,Success,NULL,Suborbital
+SM043,New Shepard NS-16,Blue Origin,USA,2021,Texas,New Shepard,NULL,Crewed,Success,28,Suborbital
+SM044,Vega VV17,ESA,Europe,2020,Kourou,Vega,1200,Earth Obs,Failure,180,LEO
+SM045,PSLV-C37,ISRO,India,2017,Sriharikota,PSLV,1378,Satellite,Success,15,LEO
+SM046,PSLV-C44,ISRO,India,2019,Sriharikota,PSLV,740,Military,Partial Success,25,LEO
+SM047,NULL,ISRO,India,2004,Sriharikota,PSLV,NULL,Experimental,Failure,NULL,LEO
+SM048,Gaganyaan Test,ISRO,India,2023,Sriharikota,LVM3,NULL,Crewed Test,Success,300,LEO
+SM049,NULL,NASA,USA,2003,Kennedy,STS,11110,Crewed,Failure,2000,LEO
+SM050,Kepler,NASA,USA,2009,Cape Canaveral,Delta II,1052,Exoplanet,Success,600,Heliocentric
+SM051,Lucy,NASA,USA,2021,Cape Canaveral,Atlas V,1550,Asteroid,Success,980,Heliocentric
+SM052,NULL,NASA,USA,2012,Vandenberg,Atlas V,NULL,Spy,Success,NULL,LEO
+SM053,TESS,NASA,USA,2018,Cape Canaveral,Falcon 9,362,Exoplanet,Success,337,HEO
+SM054,OSIRIS-REx,NASA,USA,2016,Cape Canaveral,Atlas V,2110,Asteroid,Success,800,Heliocentric
+SM055,NULL,ESA,Europe,2010,Kourou,Ariane 5,6500,Communication,Success,NULL,GEO
+SM056,Iridium NEXT,SpaceX,USA,2019,Vandenberg,Falcon 9,9600,Communication,Success,70,LEO
+SM057,NULL,SpaceX,USA,2016,Cape Canaveral,Falcon 9,NULL,Test,Failure,NULL,LEO
+SM058,OneWeb-1,OneWeb,UK,2019,Baikonur,Soyuz,6000,Satellite,Success,100,LEO
+SM059,OneWeb-2,OneWeb,UK,2020,Baikonur,Soyuz,6000,Satellite,Failure,110,LEO
+SM060,NULL,Private,USA,2022,Cape Canaveral,Falcon 9,NULL,Commercial,Success,NULL,LEO
