@@ -32,7 +32,8 @@ Highlights:
 📊 Built an interactive dashboard for real-time insights
 
 
-📸 Dashboard Preview
+Dashboard Preview
+
 📊 View Full Dashboard (PDF)
 
 👉https://github.com/vikshit-s12/Space-Mission-Analysis-and-Dashboard/blob/main/mission.pdf
